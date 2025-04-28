@@ -23,4 +23,9 @@ img {
   border-radius: 15px;
 }
 
+#profileCard:hover {
+  background-color: #00008B;
+}
+
+
 
