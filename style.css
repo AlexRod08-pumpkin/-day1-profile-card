@@ -8,14 +8,19 @@
 
 .Alex{
   font-size: 15px;
-  font-weight: ________;
+  font-weight: bold;
   text-align: center;
 }
 
 .Rod{
   font-size: 12px;
-  color: ________;
+  color: #000000;
   text-align: center;
+}
+
+img {
+  width: 250px;
+  border-radius: 15px;
 }
 
 
